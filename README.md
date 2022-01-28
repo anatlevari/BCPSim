@@ -1,4 +1,4 @@
-# Brownian Control Problem Simulation (BCPSim)
+# Brownian Control Problem Simulation
 
 This project was part of my doctorate study at the Technion, under the supervision of [Prof. Rami Atar](https://rami.net.technion.ac.il/). 
 
